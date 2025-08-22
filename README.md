@@ -3,7 +3,8 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** - Universidade Cruzeiro do Sul
 - 💻 Aspirante a **Desenvolvedora Front-End**
 - 🚀 Foco em **HTML, CSS e fundamentos de JavaScript**
-- 
+- 📌 Experiência em Administração e
+Atendimento ao Público | Interesse em Tecnologia e Gestão
 
 ---
 
