@@ -18,7 +18,9 @@ No momento, meu objetivo é evoluir como desenvolvedora front-end e construir pr
 ## 📚 Módulos do semestre (1 por mês)
 1️⃣ *Design Profissional* — princípios de design, usabilidade e acessibilidade  
 2️⃣ *Algoritmos e Pensamento Computacional* — lógica de programação e resolução de problemas  
-3️⃣ *Desenvolvimento Front-end para Web* — HTML5, CSS3 e introdução ao JavaScript  
+3️⃣ *Desenvolvimento Front-end para Web* — HTML5, CSS3 e introdução ao JavaScript (ES6+)
+
+9
 4️⃣ *Modelagem de Banco de Dados* — modelagem relacional e noções de SQL
 
 ### ✅ Progresso (marque quando concluir)
